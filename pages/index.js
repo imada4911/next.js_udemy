@@ -39,7 +39,7 @@ export default function Home({allPostData}) {
      
         <Link href="./posts/firstPost">最初の投稿へ</Link>
           <section className={`${utilsStyle.headingMd} ${utilsStyle.padding1px}`}>
-            <p>私はフルスタックエンジニアです/好きな言語はJavascriptです!</p>
+            <p>私はNext.jsエンジニアです/好きなフレームワークはNext.jsです!</p>
           </section>
         <Layout home>
           <Head>
